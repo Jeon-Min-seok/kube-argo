@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: jminseok/myweb
+        image: jminseok/myweb:3
         ports:
         - containerPort: 8080
